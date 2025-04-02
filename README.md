@@ -1,4 +1,5 @@
-Welcome to your new dbt project!
+Welcome to your new dbt project!  
+Test message for git
 
 ### Using the starter project
 
